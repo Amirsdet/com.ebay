@@ -48,7 +48,7 @@ public class TestHomePage {
 
 	}
 
-	@Test(priority = 3, enabled = true)
+	@Test(priority = 3, enabled = false)
 	public void doSearchItemTest() throws InterruptedException {
 		homePage.searchItem("steve Jobs");
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3000));// give a time to get the response
