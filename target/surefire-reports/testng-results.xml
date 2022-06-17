@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59793" started-at="2022-06-17T11:28:22 PDT" finished-at="2022-06-17T11:29:21 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59793" started-at="2022-06-17T11:28:22 PDT" finished-at="2022-06-17T11:29:21 PDT">
+      <class name="com.ebay.tests.RegisterPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.tests.RegisterPageTest@1e965684]" name="setUp" is-config="true" duration-ms="2378" started-at="2022-06-17T11:29:13 PDT" finished-at="2022-06-17T11:29:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="registerUser()[pri:0, instance:com.ebay.tests.RegisterPageTest@1e965684]" name="registerUser" duration-ms="5760" started-at="2022-06-17T11:29:15 PDT" finished-at="2022-06-17T11:29:21 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ebay.tests.RegisterPageTest@1e965684]" name="tearDown" is-config="true" duration-ms="152" started-at="2022-06-17T11:29:21 PDT" finished-at="2022-06-17T11:29:21 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ebay.tests.RegisterPageTest -->
+      <class name="com.ebay.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.tests.LoginPageTest@167fdd33]" name="setUp" is-config="true" duration-ms="2426" started-at="2022-06-17T11:29:09 PDT" finished-at="2022-06-17T11:29:12 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPageTest()[pri:1, instance:com.ebay.tests.LoginPageTest@167fdd33]" name="LoginPageTest" duration-ms="1183" started-at="2022-06-17T11:29:12 PDT" finished-at="2022-06-17T11:29:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ebay.tests.LoginPageTest@167fdd33]" name="tearDown" is-config="true" duration-ms="101" started-at="2022-06-17T11:29:13 PDT" finished-at="2022-06-17T11:29:13 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ebay.tests.LoginPageTest -->
+      <class name="com.ebay.tests.TestHomePage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="setUp" is-config="true" duration-ms="3074" started-at="2022-06-17T11:28:22 PDT" finished-at="2022-06-17T11:28:25 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:1, instance:com.ebay.tests.TestHomePage@5f282abb]" name="verifyTitle" duration-ms="2616" started-at="2022-06-17T11:28:25 PDT" finished-at="2022-06-17T11:28:27 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="tearDown" is-config="true" duration-ms="183" started-at="2022-06-17T11:28:27 PDT" finished-at="2022-06-17T11:28:28 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="setUp" is-config="true" duration-ms="2122" started-at="2022-06-17T11:28:28 PDT" finished-at="2022-06-17T11:28:30 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="electronicSelectionTest()[pri:2, instance:com.ebay.tests.TestHomePage@5f282abb]" name="electronicSelectionTest" duration-ms="6779" started-at="2022-06-17T11:28:30 PDT" finished-at="2022-06-17T11:28:36 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- electronicSelectionTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="tearDown" is-config="true" duration-ms="196" started-at="2022-06-17T11:28:36 PDT" finished-at="2022-06-17T11:28:37 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="setUp" is-config="true" duration-ms="2057" started-at="2022-06-17T11:28:37 PDT" finished-at="2022-06-17T11:28:39 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doSearchItemTest()[pri:3, instance:com.ebay.tests.TestHomePage@5f282abb]" name="doSearchItemTest" duration-ms="6483" started-at="2022-06-17T11:28:39 PDT" finished-at="2022-06-17T11:28:45 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doSearchItemTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="tearDown" is-config="true" duration-ms="206" started-at="2022-06-17T11:28:45 PDT" finished-at="2022-06-17T11:28:45 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="setUp" is-config="true" duration-ms="2126" started-at="2022-06-17T11:28:46 PDT" finished-at="2022-06-17T11:28:48 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doSelectSearchCategories(java.lang.String, java.lang.String)[pri:4, instance:com.ebay.tests.TestHomePage@5f282abb]" name="doSelectSearchCategories" duration-ms="6277" started-at="2022-06-17T11:28:48 PDT" data-provider="getData" finished-at="2022-06-17T11:28:54 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cameras & Photo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[canon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doSelectSearchCategories -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="tearDown" is-config="true" duration-ms="156" started-at="2022-06-17T11:28:54 PDT" finished-at="2022-06-17T11:28:54 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="setUp" is-config="true" duration-ms="2253" started-at="2022-06-17T11:28:54 PDT" finished-at="2022-06-17T11:28:57 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doSelectSearchCategories(java.lang.String, java.lang.String)[pri:4, instance:com.ebay.tests.TestHomePage@5f282abb]" name="doSelectSearchCategories" duration-ms="5357" started-at="2022-06-17T11:28:57 PDT" data-provider="getData" finished-at="2022-06-17T11:29:02 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Travel]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eye mask]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doSelectSearchCategories -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="tearDown" is-config="true" duration-ms="156" started-at="2022-06-17T11:29:02 PDT" finished-at="2022-06-17T11:29:02 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="setUp" is-config="true" duration-ms="1980" started-at="2022-06-17T11:29:02 PDT" finished-at="2022-06-17T11:29:04 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doSelectSearchCategories(java.lang.String, java.lang.String)[pri:4, instance:com.ebay.tests.TestHomePage@5f282abb]" name="doSelectSearchCategories" duration-ms="5198" started-at="2022-06-17T11:29:04 PDT" data-provider="getData" finished-at="2022-06-17T11:29:09 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Business & Industrial]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[drill]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doSelectSearchCategories -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ebay.tests.TestHomePage@5f282abb]" name="tearDown" is-config="true" duration-ms="160" started-at="2022-06-17T11:29:09 PDT" finished-at="2022-06-17T11:29:09 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ebay.tests.TestHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
